@@ -6,4 +6,4 @@ You can find:
 
 * The slides.
 
-* The code and a basic analysis for two datasets: the URV mail network and the UCSB Facebook data.
+* The code and a basic analysis the URV mail network.
