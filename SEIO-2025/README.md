@@ -1,6 +1,6 @@
-# Materials for SEIO 2025 talk
+# SEIO 2025 
 
-This folder contains the slides and supporting material for the talk given at SEIO 2025 (in Lleida). 
+This folder contains the slides and supporting materials for the SEIO 2025 talk in Lleida.
 
 You can find: 
 
