@@ -1,11 +1,11 @@
 # Bayesian statistics with the Zipf - Polylog distribution
 
-![](img/bayes-poly.png#center)
+![](img/bayes-poly.png)
 
 
 The Zipf-Polylog distribution extends the Zipf distribution by adding an extra parameter.
 
-Key Reference:
+**Key Reference:**
 
 Valero, J., M. Pérez-Casany, and A. Duarte-López (2022). The
 Zipf-Polylog distribution: Modeling human interactions through social
@@ -23,6 +23,6 @@ networks. *Physica A: Statistical Mechanics and its Applications.*
     
 **Participants:**
 
-* Ariel Duarte - López
-* Marta Pérez Casany
-* Víctor Peña
+* Ariel Duarte-López.
+* Marta Pérez Casany.
+* Víctor Peña.
