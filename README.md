@@ -1,6 +1,6 @@
 # Bayesian statistics with the Zipf - Polylog distribution
 
-![](img/bayes-poly.png)
+![](img/bayes-poly.png#center)
 
 
 The Zipf-Polylog distribution extends the Zipf distribution by adding an extra parameter.
