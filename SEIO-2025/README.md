@@ -6,4 +6,4 @@ You can find:
 
 * The slides.
 
-* The code and a basic analysis the URV mail network.
+* The code and a basic analysis the URV mail network (within the `R/` folder).
