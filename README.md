@@ -8,7 +8,7 @@ The Zipf-Polylog distribution extends the Zipf distribution by adding an extra p
 
 * Bayesian test for Zipf vs interior of parameter space of Zipf - Polylog. 
 
-* Stude the geometry of the model through the Fisher-Rao (infinitessimal) metric, scalar curvature (here, it's just a determinant), etc. We could also compute geodesics that can be helpful for understanding the model better, devising more stable numerical methods, and defining new hypothesis tests.
+* Study the geometry of the model through the Fisher-Rao (infinitessimal) metric, scalar curvature (here, it's just a determinant), etc. We could also compute geodesics that can be helpful for understanding the model better, devising more stable numerical methods, and defining new hypothesis tests.
 
 * Perhaps, build GLMs based on the Zipf-Polylog (it's an exponential family).
     
