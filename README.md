@@ -1,5 +1,8 @@
 # Bayesian statistics with the Zipf - Polylog distribution
 
+![Thomas Bayes saying P(k) ∝ βᵏ / kᵅ](img/bayes-poly.png)
+
+
 The Zipf-Polylog distribution extends the Zipf distribution by adding an extra parameter.
 
 Key Reference:
