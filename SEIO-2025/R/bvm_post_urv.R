@@ -86,7 +86,6 @@ p_beta = ggplot(draws, aes(x = beta)) +
   labs(title = "Marginal β: sample vs. BvM normal") +
   theme_minimal()
 
-#––– 10. Display –––
 print(p_joint)
 print(p_alpha)
 print(p_beta)
