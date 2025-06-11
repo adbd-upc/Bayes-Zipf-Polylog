@@ -13,7 +13,7 @@ networks. *Physica A: Statistical Mechanics and its Applications.*
 
 **Current research interests:**
 
-* Bayesian - frequentist reconciliation through Bernstein - von Mises result.
+* Bayesian-frequentist reconciliation through Bernstein-von Mises result.
 
 * Bayesian test for Zipf vs interior of parameter space of Zipf - Polylog. 
 
@@ -24,5 +24,5 @@ networks. *Physica A: Statistical Mechanics and its Applications.*
 **Participants:**
 
 * Ariel Duarte-López.
-* Marta Pérez Casany.
+* Marta Pérez-Casany.
 * Víctor Peña.
