@@ -1,4 +1,4 @@
-# Bayesian statistics with the Zipf - Polylog distribution
+# Bayesian statistics with the Zipf-Polylog distribution
 
 ![](img/bayes-poly.png)
 
