@@ -5,7 +5,7 @@
 
 The Zipf-Polylog distribution extends the Zipf distribution by adding an extra parameter.
 
-**Key Reference:**
+**Key reference:**
 
 Valero, J., M. Pérez-Casany, and A. Duarte-López (2022). The
 Zipf-Polylog distribution: Modeling human interactions through social
